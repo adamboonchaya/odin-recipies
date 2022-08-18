@@ -1,0 +1,1 @@
+Odin Recipies is an HTML based webpage that demonstrates a recipie. It will contain a main index page to a few different recipies, but won't look that pretty. This is to demonstrate ability to code using HTML, as well as its elements and attributes.
